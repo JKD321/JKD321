@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JKD321
-- 👀 I’m interested in Python and Data Analytics
-- 🌱 I’m currently learning with CIW, Udacity and Algebra with Khan Academy
-- 💞️ I’m looking to collaborate on Python
+- 👋 Hi, I’m Johnny Dunne
+- 👀 I’m interested in HTML, CSS and Javascript
+- 🌱 I’m currently learning with Udemy
+- 💞️ I’m looking for guidance on all things HTM, CSS, Javascript
 - 📫 Reach out on Github
 
 <!---
