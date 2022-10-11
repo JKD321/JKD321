@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Johnny Dunne
 - 👀 I’m interested in HTML, CSS and Javascript
 - 🌱 I’m currently learning with Udemy
-- 💞️ I’m looking for guidance on all things HTM, CSS, Javascript
+- 💞️ I’m looking for guidance on all things HTML, CSS, Javascript
 - 📫 Reach out on Github
 
 <!---
